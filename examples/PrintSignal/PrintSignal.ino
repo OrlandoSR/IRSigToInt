@@ -1,5 +1,5 @@
 #include <IRremote.h>
-#include <SigToInt.h>
+#include <IRSigToInt.h>
 #include <codes.h>
 
 int RECV_PIN = 34;
