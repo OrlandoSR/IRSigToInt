@@ -1,0 +1,1 @@
+This library requires the library IRremote to work. Contains the function SigToInt(IRrecv irrecv, decode_results results) that returns an int depending on the signal from the receiver. Receiver codes are in codes.h ### Author: OrlandoSR
